@@ -56,7 +56,7 @@
         bottom: 0;
         width: 100%;
     }
-    /* About us */
+    /* information */
     
     main .informacion {
         padding: 30px 0 60px 0;
@@ -122,7 +122,7 @@
         width: 70px;
         height: 55px;
     }
-    /* our team */
+    /* information */
     
     .auditoria-informatica {
         background: #f2f2f2;
@@ -219,7 +219,7 @@
         .imagen-information {
             width: 90%;
         }
-        /* servicio */
+
         .auditoria-cont {
             justify-content: center;
             flex-direction: column;
