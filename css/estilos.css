@@ -122,6 +122,16 @@
         width: 70px;
         height: 55px;
     }
+
+   .colum-hero {
+        margin-bottom: 15px;
+    }
+   
+   .hero {
+        width: 168px;
+        height: 144px;
+    }
+
     /* information */
     
     .auditoria-informatica {
@@ -219,7 +229,10 @@
         .imagen-information {
             width: 90%;
         }
-
+        .colum-hero {
+            justify-items: center;
+            align-items: center;
+        }
         .auditoria-cont {
             justify-content: center;
             flex-direction: column;
